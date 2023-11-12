@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> COVID INFECTION INDEX: A GEOGRAPHICALLY WEIGHTED APPROACH IN ASSESSING COVID INFECTION IN NYC </b></h2>[PDF](http://AlDeleon012597.github.io/files/CovidInfectionIndex_SubmissionFinal.pdf)
+<h2><b> COVID INFECTION INDEX: A GEOGRAPHICALLY WEIGHTED APPROACH IN ASSESSING COVID INFECTION IN NYC [<a href="http://AlDeleon012597.github.io/files/CovidInfectionIndex_SubmissionFinal.pdf">PDF</a>] [<a href="https://github.com/AlDeleon012597/Covid-Infection-Index">GITHUB</a>]</b></h2>
 
 <h5> Research project, <span class="w3-opacity"> August 2021 - December 2021 </span></h5> </div>
 </div>
