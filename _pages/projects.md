@@ -11,7 +11,7 @@ author_profile: true
 <div class="w3-container w3-Dark Gray">
 <h2><b> COVID INFECTION INDEX: A GEOGRAPHICALLY WEIGHTED APPROACH IN ASSESSING COVID INFECTION IN NYC [<a href="http://AlDeleon012597.github.io/files/CovidInfectionIndex_SubmissionFinal.pdf">PDF</a>] [<a href="https://github.com/AlDeleon012597/Covid-Infection-Index">GITHUB</a>]</b></h2>
 
-<h5> Research project, <span class="w3-opacity"> August 2021 - December 2021 </span></h5> </div>
+<h5> Seminar Project <span class="w3-opacity"> December 2021 </span></h5> </div>
 </div>
 
 <div class="w3-container">
@@ -19,7 +19,7 @@ author_profile: true
 
 <h2><b> THE IMPACT OF POOR STREET LIGHTING ON CRIME IN THE BRONX [<a href="http://AlDeleon012597.github.io/files/Crimeinthebronx.pdf">PDF</a>]</b></h2>
 
-<h5> Research project, <span class="w3-opacity"> August 2021 - December 2021 </span></h5> </div>
+<h5> Final Project for GTECH709 (Intro to GIS) <span class="w3-opacity"> December 2018 </span></h5> </div>
 </div>
 
 <div class="w3-container">
