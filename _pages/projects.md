@@ -17,4 +17,12 @@ author_profile: true
 <div class="w3-container">
 <p>The aim of this study is to identify which variables exhibit the strongest correlation with the infection rate of COVID-19, specifically in relation to occupation and transportation, household and living conditions, socioeconomic status, everyday activities, and health and age. Additionally, the Covid Infection Index (CII) is developed based on the identified variables, which serves as a tool to assess the susceptibility of communities to COVID-19 infection, while accounting for the diverse geographical landscape of New York City (NYC).  Multiple linear regression (MLR) and geographical weighted regression (GWR) were used to measure the relationship between the variables considered and the infection rate of COVID-19.  The GWR analysis was run using Zip Code Tabulation Areas. Geographically weighted principal component analysis (GWPCA) and principal component analysis (PCA) are then used to create the CII using Census Tract geography and data. Given the granularity of Census Tracts and the use of geographic weighted techniques, this study provides a method of understanding how the impact of COVID-19 individually affects the diverse communities of NYC. </p>
 
+<h2><b> THE IMPACT OF POOR STREET LIGHTING ON CRIME IN THE BRONX [<a href="http://AlDeleon012597.github.io/files/Crimeinthebronx.pdf">PDF</a>] [<a href="https://github.com/AlDeleon012597/Covid-Infection-Index">GITHUB</a>]</b></h2>
+
+<h5> Research project, <span class="w3-opacity"> August 2021 - December 2021 </span></h5> </div>
+</div>
+
+<div class="w3-container">
+<p>In this article, we investigate the relationship between poorly lit areas in The Bronx and crimes commonly thought to occur in the dark. Hot Spot Analysis, Inverse Distance Weighted interpolation, and slope are used to explore this relationship. Crimes such as larceny, burglary, robbery, and theft are considered. </p>
+
 </div>
