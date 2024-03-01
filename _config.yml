@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alex De Leon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data Scientist, passionate about GIS and philosophy"
+  location         : "Bergen, NJ"
   employer         :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
