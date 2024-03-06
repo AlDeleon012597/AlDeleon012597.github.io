@@ -35,7 +35,7 @@ author_profile: true
 <p>In this analysis we will attempt to predict whether or not a patient will have a stroke based on a number of characteristics. Dataset was found on kaggle https://www.kaggle.com/fedesoriano/stroke-prediction-dataset. The data source is "confidential". This dataset contains information on patients who had (or did not have) a stroke. Patient information includes gender, body mass index, average glucose level, residence type, if the patient is a smoker, and so on.
 </p>
 
-<h2><b> Vulnerability and Risk Dashboard in Puerto Rico [<a href="https://recuperacion.pr.gov/wcrp/tools-portal.html">SITE</a>]  [<a href="https://github.com/AlDeleon012597/AlDeleon012597.github.io/blob/master/files/FPR_Dashboard_UserGuide_Final.pdf">USER GUIDE</a>] [<a href="https://github.com/AlDeleon012597/AlDeleon012597.github.io/blob/master/files/Risk%20and%20Vulnerability%20Indicators%20Dashboard%2011-23-21.pdf">METHODOLOGY</a>] </b></h2>
+<h2><b> VULNERABILITY AND RISK DASHBOARD [<a href="https://recuperacion.pr.gov/wcrp/tools-portal.html">SITE</a>]  [<a href="https://github.com/AlDeleon012597/AlDeleon012597.github.io/blob/master/files/FPR_Dashboard_UserGuide_Final.pdf">USER GUIDE</a>] [<a href="https://github.com/AlDeleon012597/AlDeleon012597.github.io/blob/master/files/Risk%20and%20Vulnerability%20Indicators%20Dashboard%2011-23-21.pdf">METHODOLOGY</a>] </b></h2>
 
 <h5> Geospatial Data Consultant for Foundation for Puerto Rico <span class="w3-opacity"> May 2021 </span></h5> </div>
 
