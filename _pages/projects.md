@@ -37,10 +37,10 @@ author_profile: true
 
 <h2><b> Vulnerability and Risk Dashboard in Puerto Rico [<a href="https://recuperacion.pr.gov/wcrp/tools-portal.html">SITE</a>]</b></h2>
 
-<h5> Final Project for MATH328 (Techniques in Data Science) <span class="w3-opacity"> May 2021 </span></h5> </div>
+<h5> Geospatial Data Consultant for Foundation for Puerto Rico <span class="w3-opacity"> May 2021 </span></h5> </div>
 
 <div class="w3-container">
-<p>- Constructed statistical indicators that aim to measure Economic, Education, Environment, Housing, Infrastructure, and Health vulnerability of sub counties in Puerto Rico.
+<p> Constructed statistical indicators that aim to measure Economic, Education, Environment, Housing, Infrastructure, and Health vulnerability of sub counties in Puerto Rico.
 - Co-developed ESRI dashboard using statistical indicators which allows community planners and researchers to visualize and draw key insights about vulnerable local communities in Puerto Rico.
 - Co-authored memorandum outlining methodologies surrounding statistical indicator development and user guide for ESRI dashboard.
 - Developed comprehensive geodatabase and supporting data dictionary for client.
