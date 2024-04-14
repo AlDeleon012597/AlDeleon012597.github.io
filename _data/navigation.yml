@@ -4,13 +4,13 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
 
-  - title: "Course Work"
-    url: /coursework/
+  #- title: "Course Work"
+  #  url: /coursework/ 
     
     
