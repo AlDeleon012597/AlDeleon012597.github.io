@@ -1,8 +1,8 @@
-<!-- ---
-# title: "Coursework"
-# permalink: /coursework/
-# author_profile: false
-# --- -->
+ ---
+ title: "Coursework"
+ permalink: /coursework/
+ author_profile: false
+ --- 
 
 <div class="text-justify">
 
